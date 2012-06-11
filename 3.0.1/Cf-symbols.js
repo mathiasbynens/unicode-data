@@ -1,0 +1,27 @@
+// All symbols in the Cf category as per Unicode v3.0.1:
+[
+	'\u070F',
+	'\u180B',
+	'\u180C',
+	'\u180D',
+	'\u180E',
+	'\u200C',
+	'\u200D',
+	'\u200E',
+	'\u200F',
+	'\u202A',
+	'\u202B',
+	'\u202C',
+	'\u202D',
+	'\u202E',
+	'\u206A',
+	'\u206B',
+	'\u206C',
+	'\u206D',
+	'\u206E',
+	'\u206F',
+	'\uFEFF',
+	'\uFFF9',
+	'\uFFFA',
+	'\uFFFB'
+];
