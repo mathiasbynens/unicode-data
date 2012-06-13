@@ -6,10 +6,12 @@ For example, I’ve used a variation of this data in the following test case: <h
 
 ## Generated data
 
-Per Unicode category, two separate files will be created:
+Per Unicode **category**, two separate files will be created:
 
-* `${version}/${category}-symbols.js`: a JavaScript-compatible array containing all Unicode symbols in that category.
-* `${version}/${category}-regex.js`: a JavaScript-compatible regular expression that matches all Unicode symbols in that category.
+* `${version}/categories/${category}-symbols.js`: a JavaScript-compatible array containing all Unicode symbols in that category.
+* `${version}/categories/${category}-regex.js`: a JavaScript-compatible regular expression that matches all Unicode symbols in that category.
+
+The same thing is done for **scripts**, **blocks**, and **properties**.
 
 The data is currently being generated for the following Unicode versions:
 
@@ -25,7 +27,7 @@ The data is currently being generated for the following Unicode versions:
 * 6.0.0
 * 6.1.0
 
-I’ll update this repository and this list as soon as new Unicode versions are released.
+I’ll update this repository (and this list) as soon as new Unicode versions are released.
 
 ## How to generate the data
 
@@ -37,8 +39,6 @@ To (re-)generate all data in this repository, run:
 ./generate.sh
 ```
 
-Note that `Cn` is not a real Unicode category; I just used it to group all Unicode symbols that haven’t been assigned a category. (The same thing is done in [the excellent XRegExp JavaScript library](http://xregexp.com/).)
-
 ## Tests for the generated data
 
 The generated data is fully tested by a script that verifies that, within the range of code points from `0x000000` to `0x10FFFF`, _only_ the symbols in `${version}/${category}-symbols.js` are matched by the regular expression in `${version}/${category}-regex.js`. [This rather heavy test case (which runs over 33 million assertions) is available online.](http://mathias.html5.org/data/unicode/test?version=6.1.0)
@@ -48,12 +48,12 @@ The generated data is fully tested by a script that verifies that, within the ra
 I’ve set up an HTTP API of sorts, which allows you to customize the output a little bit. This saves you from downloading, editing, and re-hosting the generated files if you just want to write some quick tests. Here’s an example:
 
 ```
-http://mathias.html5.org/data/unicode/format?version=6.1.0&category=Ll&type=symbols&prepend=window.symbols%20%3D%20&append=%3B
+http://mathias.html5.org/data/unicode/format?version=6.1.0&category=LLCtype=symbols&prepend=window.symbols%20%3D%20&append=%3B
 ```
 
 ### Available query string parameters
 
- * `category`: can be any Unicode category or `Cn`; defaults to `Ll`
+ * `category`: can be any Unicode category; defaults to `Ll`
  * `type`: can be `symbols` or `regex`, defaults to `symbols`
  * `prepend`: defaults to the empty string
  * `append`: defaults to the empty string

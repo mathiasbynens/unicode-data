@@ -1,0 +1,2 @@
+// Regular expression that matches all symbols in the `Latin` script as per Unicode v4.1.0:
+/[A-Za-z\xAA\xBA\xC0-\xD6\xD8-\xF6\xF8-\u0241\u0250-\u02B8\u02E0-\u02E4\u1D00-\u1D25\u1D2C-\u1D5C\u1D62-\u1D65\u1D6B-\u1D77\u1D79-\u1DBF\u1E00-\u1E9B\u1EA0-\u1EF9\u2071\u207F\u2090-\u2094\u212A\u212B\uFB00-\uFB06\uFF21-\uFF3A\uFF41-\uFF5A]/;

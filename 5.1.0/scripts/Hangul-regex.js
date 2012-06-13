@@ -1,0 +1,2 @@
+// Regular expression that matches all symbols in the `Hangul` script as per Unicode v5.1.0:
+/[\u1100-\u1159\u115F-\u11A2\u11A8-\u11F9\u3131-\u318E\u3200-\u321E\u3260-\u327E\uAC00-\uD7A3\uFFA0-\uFFBE\uFFC2-\uFFC7\uFFCA-\uFFCF\uFFD2-\uFFD7\uFFDA-\uFFDC]/;

@@ -1,0 +1,2 @@
+// Regular expression that matches all symbols in the `Arabic` script as per Unicode v5.1.0:
+/[\u0606-\u060B\u060D-\u061A\u061E\u0621-\u063F\u0641-\u064A\u0656-\u065E\u066A-\u066F\u0671-\u06DC\u06DE-\u06FF\u0750-\u077F\uFB50-\uFBB1\uFBD3-\uFD3D\uFD50-\uFD8F\uFD92-\uFDC7\uFDF0-\uFDFC\uFE70-\uFE74\uFE76-\uFEFC]/;
