@@ -4,7 +4,7 @@ from utils import *
 import sys
 
 def format(scriptName, scriptList, version):
-	return '// All code points in the `' + scriptName + '` script as per Unicode v' + version + ':\n[\n\t\'' + '\',\n\t\''.join(scriptList) + '\'\n];'
+	return '// All code points in the `' + scriptName + '` script as per Unicode v' + version + ':\n[\n\t' + ',\n\t'.join(scriptList) + '\n];'
 
 def main(sourceFile, version):
 	dictionary = parseScriptsOrProps(sourceFile)

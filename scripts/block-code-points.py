@@ -4,7 +4,7 @@ from utils import *
 import sys
 
 def format(blockName, blockList, version):
-	return '// All symbols in the ' + blockName + ' block as per Unicode v' + version + ':\n[\n\t\'' + '\',\n\t\''.join(blockList) + '\'\n];'
+	return '// All code points in the ' + blockName + ' block as per Unicode v' + version + ':\n[\n\t' + ',\n\t'.join(blockList) + '\n];'
 
 def main(sourceFile, version):
 	dictionary = parseBlocks(sourceFile)
