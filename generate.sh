@@ -59,8 +59,6 @@ for file in data/*-database.txt; do
 	wait
 done
 
-exit
-
 # Generate the scripts output data for each available Unicode version
 for file in data/*-scripts.txt; do
 	file="${file##*/}"
