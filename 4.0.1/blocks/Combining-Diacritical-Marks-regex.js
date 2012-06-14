@@ -1,2 +1,2 @@
 // Regular expression that matches all symbols in the Combining Diacritical Marks block as per Unicode v4.0.1:
-/[\u0300-\u036F]|/;
+/[\u0300-\u036F]/;

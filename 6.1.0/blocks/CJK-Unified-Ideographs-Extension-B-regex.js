@@ -1,2 +1,2 @@
 // Regular expression that matches all symbols in the CJK Unified Ideographs Extension B block as per Unicode v6.1.0:
-/[\uD840-\uD868][\uDC00-\uDFFF]|\uD869[\uDC00-\uDEDF]|/;
+/[\uD840-\uD868][\uDC00-\uDFFF]|\uD869[\uDC00-\uDEDF]/;

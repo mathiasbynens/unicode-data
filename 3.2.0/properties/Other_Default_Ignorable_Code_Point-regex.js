@@ -1,2 +1,2 @@
 // Regular expression that matches all symbols with the `Other_Default_Ignorable_Code_Point` property as per Unicode v3.2.0:
-/[\u180B-\u180D\u2060-\u206F\uFE00-\uFE0F\uFFF0-\uFFFB]|[\uDB40-\uDB43][\uDC00-\uDFFF]|/;
+/[\u180B-\u180D\u2060-\u206F\uFE00-\uFE0F\uFFF0-\uFFFB]|[\uDB40-\uDB43][\uDC00-\uDFFF]/;

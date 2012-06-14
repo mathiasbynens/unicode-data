@@ -45,14 +45,13 @@ def createRange(codePointList):
 	# { 'low surrogate range': [list of high surrogates that have this exact low surrogate range] })
 
 	buf = []
-	bmpRange = createBMPRange(bmp)
-	if bmpRange:
+	if len(bmp):
 		buf.append(createBMPRange(bmp))
 	for lo, hi in supplementaryDictByLowRanges.items():
 		buf.append(createBMPRange(hi) + lo)
-
 	# individual code points that are high surrogates must go at the end
-	buf.append(createBMPRange(surrogates))
+	if len(surrogates):
+		buf.append(createBMPRange(surrogates))
 
 	return '|'.join(buf)
 
