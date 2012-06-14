@@ -1,4 +1,4 @@
-// All code points in the M category as per Unicode v4.1.0:
+// All code points in the `M` category as per Unicode v4.1.0:
 [
 	0x300,
 	0x301,

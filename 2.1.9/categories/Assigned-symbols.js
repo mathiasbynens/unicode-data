@@ -1,4 +1,4 @@
-// All symbols in the Assigned category as per Unicode v2.1.9:
+// All symbols in the `Assigned` category as per Unicode v2.1.9:
 [
 	'\0',
 	'\x01',

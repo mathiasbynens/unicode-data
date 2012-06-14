@@ -1,4 +1,4 @@
-// All code points in the L category as per Unicode v6.0.0:
+// All code points in the `L` category as per Unicode v6.0.0:
 [
 	0x41,
 	0x42,

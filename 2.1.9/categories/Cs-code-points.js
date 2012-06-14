@@ -1,4 +1,4 @@
-// All code points in the Cs category as per Unicode v2.1.9:
+// All code points in the `Cs` category as per Unicode v2.1.9:
 [
 	0xD800,
 	0xD801,

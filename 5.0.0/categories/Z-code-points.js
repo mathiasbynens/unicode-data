@@ -1,4 +1,4 @@
-// All code points in the Z category as per Unicode v5.0.0:
+// All code points in the `Z` category as per Unicode v5.0.0:
 [
 	0x20,
 	0xA0,

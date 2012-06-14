@@ -1,4 +1,4 @@
-// All symbols in the M category as per Unicode v4.0.1:
+// All symbols in the `M` category as per Unicode v4.0.1:
 [
 	'\u0300',
 	'\u0301',

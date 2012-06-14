@@ -1,4 +1,4 @@
-// All symbols in the Sk category as per Unicode v4.0.1:
+// All symbols in the `Sk` category as per Unicode v4.0.1:
 [
 	'\x5E',
 	'\x60',

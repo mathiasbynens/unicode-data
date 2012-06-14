@@ -1,4 +1,4 @@
-// All code points in the Zs category as per Unicode v3.0.1:
+// All code points in the `Zs` category as per Unicode v3.0.1:
 [
 	0x20,
 	0xA0,

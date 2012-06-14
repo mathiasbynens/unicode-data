@@ -1,4 +1,4 @@
-// All code points in the Pc category as per Unicode v2.0.14:
+// All code points in the `Pc` category as per Unicode v2.0.14:
 [
 	0x5F,
 	0x203F,

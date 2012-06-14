@@ -1,4 +1,4 @@
-// All code points in the Co category as per Unicode v5.0.0:
+// All code points in the `Co` category as per Unicode v5.0.0:
 [
 	0xE000,
 	0xE001,

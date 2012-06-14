@@ -1,4 +1,4 @@
-// All symbols in the Sm category as per Unicode v2.1.9:
+// All symbols in the `Sm` category as per Unicode v2.1.9:
 [
 	'\x2B',
 	'\x3C',

@@ -1,4 +1,4 @@
-// All symbols in the Z category as per Unicode v5.1.0:
+// All symbols in the `Z` category as per Unicode v5.1.0:
 [
 	' ',
 	'\xA0',

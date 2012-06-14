@@ -1,4 +1,4 @@
-// All code points in the Lu category as per Unicode v2.0.14:
+// All code points in the `Lu` category as per Unicode v2.0.14:
 [
 	0x41,
 	0x42,

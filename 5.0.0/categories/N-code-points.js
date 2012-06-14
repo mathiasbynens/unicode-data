@@ -1,4 +1,4 @@
-// All code points in the N category as per Unicode v5.0.0:
+// All code points in the `N` category as per Unicode v5.0.0:
 [
 	0x30,
 	0x31,

@@ -1,4 +1,4 @@
-// All code points in the Nl category as per Unicode v5.0.0:
+// All code points in the `Nl` category as per Unicode v5.0.0:
 [
 	0x16EE,
 	0x16EF,

@@ -1,4 +1,4 @@
-// All symbols in the L category as per Unicode v2.1.9:
+// All symbols in the `L` category as per Unicode v2.1.9:
 [
 	'A',
 	'B',

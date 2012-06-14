@@ -1,4 +1,4 @@
-// All symbols in the S category as per Unicode v4.1.0:
+// All symbols in the `S` category as per Unicode v4.1.0:
 [
 	'\x24',
 	'\x2B',

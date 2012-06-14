@@ -1,4 +1,4 @@
-// All code points in the Po category as per Unicode v2.0.14:
+// All code points in the `Po` category as per Unicode v2.0.14:
 [
 	0x21,
 	0x22,

@@ -1,4 +1,4 @@
-// All code points in the Cf category as per Unicode v3.0.1:
+// All code points in the `Cf` category as per Unicode v3.0.1:
 [
 	0x70F,
 	0x180B,

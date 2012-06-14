@@ -1,4 +1,4 @@
-// All code points in the LC category as per Unicode v4.0.1:
+// All code points in the `LC` category as per Unicode v4.0.1:
 [
 	0x41,
 	0x42,

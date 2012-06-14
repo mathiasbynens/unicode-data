@@ -1,4 +1,4 @@
-// All symbols in the Lm category as per Unicode v2.0.14:
+// All symbols in the `Lm` category as per Unicode v2.0.14:
 [
 	'\u02B0',
 	'\u02B1',

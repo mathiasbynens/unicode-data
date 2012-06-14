@@ -1,4 +1,4 @@
-// All symbols in the Pd category as per Unicode v6.0.0:
+// All symbols in the `Pd` category as per Unicode v6.0.0:
 [
 	'\x2D',
 	'\u058A',

@@ -1,4 +1,4 @@
-// All code points in the Me category as per Unicode v3.2.0:
+// All code points in the `Me` category as per Unicode v3.2.0:
 [
 	0x488,
 	0x489,

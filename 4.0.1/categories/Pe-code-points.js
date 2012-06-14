@@ -1,4 +1,4 @@
-// All code points in the Pe category as per Unicode v4.0.1:
+// All code points in the `Pe` category as per Unicode v4.0.1:
 [
 	0x29,
 	0x5D,

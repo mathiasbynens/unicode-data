@@ -1,4 +1,4 @@
-// All symbols in the Zs category as per Unicode v2.0.14:
+// All symbols in the `Zs` category as per Unicode v2.0.14:
 [
 	' ',
 	'\xA0',

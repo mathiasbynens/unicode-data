@@ -1,4 +1,4 @@
-// All code points in the Pi category as per Unicode v4.1.0:
+// All code points in the `Pi` category as per Unicode v4.1.0:
 [
 	0xAB,
 	0x2018,

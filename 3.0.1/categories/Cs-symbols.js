@@ -1,4 +1,4 @@
-// All symbols in the Cs category as per Unicode v3.0.1:
+// All symbols in the `Cs` category as per Unicode v3.0.1:
 [
 	'\uD800',
 	'\uD801',

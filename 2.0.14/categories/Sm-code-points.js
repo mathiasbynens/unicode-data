@@ -1,4 +1,4 @@
-// All code points in the Sm category as per Unicode v2.0.14:
+// All code points in the `Sm` category as per Unicode v2.0.14:
 [
 	0x2B,
 	0x3C,

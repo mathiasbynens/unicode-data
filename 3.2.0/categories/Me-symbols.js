@@ -1,4 +1,4 @@
-// All symbols in the Me category as per Unicode v3.2.0:
+// All symbols in the `Me` category as per Unicode v3.2.0:
 [
 	'\u0488',
 	'\u0489',

@@ -1,4 +1,4 @@
-// All symbols in the LC category as per Unicode v3.2.0:
+// All symbols in the `LC` category as per Unicode v3.2.0:
 [
 	'A',
 	'B',

@@ -1,4 +1,4 @@
-// All symbols in the ASCII category as per Unicode v6.0.0:
+// All symbols in the `ASCII` category as per Unicode v6.0.0:
 [
 	'\0',
 	'\x01',

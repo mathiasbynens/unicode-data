@@ -4,7 +4,7 @@ from utils import *
 import sys
 
 def format(categoryName, categoryRange, version):
-	return '// Regular expression that matches all symbols in the ' + categoryName + ' category as per Unicode v' + version + ':\n/' + categoryRange + '/;'
+	return '// Regular expression that matches all symbols in the `' + categoryName + '` category as per Unicode v' + version + ':\n/' + categoryRange + '/;'
 
 def main(sourceFile, version):
 	dictionary = parseDatabase(sourceFile)

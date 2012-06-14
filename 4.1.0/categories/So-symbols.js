@@ -1,4 +1,4 @@
-// All symbols in the So category as per Unicode v4.1.0:
+// All symbols in the `So` category as per Unicode v4.1.0:
 [
 	'\xA6',
 	'\xA7',

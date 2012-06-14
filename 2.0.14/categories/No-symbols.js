@@ -1,4 +1,4 @@
-// All symbols in the No category as per Unicode v2.0.14:
+// All symbols in the `No` category as per Unicode v2.0.14:
 [
 	'\xB2',
 	'\xB3',

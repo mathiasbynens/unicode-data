@@ -1,4 +1,4 @@
-// All code points in the ASCII category as per Unicode v2.1.9:
+// All code points in the `ASCII` category as per Unicode v2.1.9:
 [
 	0x0,
 	0x1,

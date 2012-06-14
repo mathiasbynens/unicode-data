@@ -1,4 +1,4 @@
-// All symbols in the Cc category as per Unicode v5.2.0:
+// All symbols in the `Cc` category as per Unicode v5.2.0:
 [
 	'\0',
 	'\x01',

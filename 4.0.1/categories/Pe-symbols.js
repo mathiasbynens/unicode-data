@@ -1,4 +1,4 @@
-// All symbols in the Pe category as per Unicode v4.0.1:
+// All symbols in the `Pe` category as per Unicode v4.0.1:
 [
 	'\x29',
 	'\x5D',

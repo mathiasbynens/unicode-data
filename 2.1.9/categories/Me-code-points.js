@@ -1,4 +1,4 @@
-// All code points in the Me category as per Unicode v2.1.9:
+// All code points in the `Me` category as per Unicode v2.1.9:
 [
 	0x6DD,
 	0x6DE,

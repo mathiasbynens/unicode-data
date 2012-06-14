@@ -1,4 +1,4 @@
-// All symbols in the Nl category as per Unicode v2.1.9:
+// All symbols in the `Nl` category as per Unicode v2.1.9:
 [
 	'\u2160',
 	'\u2161',

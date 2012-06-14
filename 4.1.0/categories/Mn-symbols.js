@@ -1,4 +1,4 @@
-// All symbols in the Mn category as per Unicode v4.1.0:
+// All symbols in the `Mn` category as per Unicode v4.1.0:
 [
 	'\u0300',
 	'\u0301',

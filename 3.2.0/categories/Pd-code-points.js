@@ -1,4 +1,4 @@
-// All code points in the Pd category as per Unicode v3.2.0:
+// All code points in the `Pd` category as per Unicode v3.2.0:
 [
 	0x2D,
 	0xAD,

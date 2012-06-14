@@ -1,4 +1,4 @@
-// All symbols in the Nl category as per Unicode v4.1.0:
+// All symbols in the `Nl` category as per Unicode v4.1.0:
 [
 	'\u16EE',
 	'\u16EF',

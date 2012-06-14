@@ -1,4 +1,4 @@
-// All symbols in the N category as per Unicode v2.0.14:
+// All symbols in the `N` category as per Unicode v2.0.14:
 [
 	'0',
 	'1',

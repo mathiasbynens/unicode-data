@@ -1,4 +1,4 @@
-// All symbols in the Me category as per Unicode v2.1.9:
+// All symbols in the `Me` category as per Unicode v2.1.9:
 [
 	'\u06DD',
 	'\u06DE',

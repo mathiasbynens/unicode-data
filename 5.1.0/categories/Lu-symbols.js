@@ -1,4 +1,4 @@
-// All symbols in the Lu category as per Unicode v5.1.0:
+// All symbols in the `Lu` category as per Unicode v5.1.0:
 [
 	'A',
 	'B',

@@ -1,4 +1,4 @@
-// All code points in the Mc category as per Unicode v4.0.1:
+// All code points in the `Mc` category as per Unicode v4.0.1:
 [
 	0x903,
 	0x93E,

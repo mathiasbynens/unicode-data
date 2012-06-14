@@ -1,4 +1,4 @@
-// All symbols in the Pc category as per Unicode v3.0.1:
+// All symbols in the `Pc` category as per Unicode v3.0.1:
 [
 	'\x5F',
 	'\u203F',

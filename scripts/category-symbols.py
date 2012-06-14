@@ -4,7 +4,7 @@ from utils import *
 import sys
 
 def format(categoryName, categoryList, version):
-	return '// All symbols in the ' + categoryName + ' category as per Unicode v' + version + ':\n[\n\t\'' + '\',\n\t\''.join(categoryList) + '\'\n];'
+	return '// All symbols in the `' + categoryName + '` category as per Unicode v' + version + ':\n[\n\t\'' + '\',\n\t\''.join(categoryList) + '\'\n];'
 
 def main(sourceFile, version):
 	dictionary = parseDatabase(sourceFile, True)

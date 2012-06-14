@@ -1,4 +1,4 @@
-// All code points in the Lo category as per Unicode v4.1.0:
+// All code points in the `Lo` category as per Unicode v4.1.0:
 [
 	0x1BB,
 	0x1C0,

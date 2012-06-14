@@ -1,4 +1,4 @@
-// All symbols in the Lo category as per Unicode v3.0.1:
+// All symbols in the `Lo` category as per Unicode v3.0.1:
 [
 	'\u01BB',
 	'\u01C0',

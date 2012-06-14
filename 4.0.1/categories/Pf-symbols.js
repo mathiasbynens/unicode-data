@@ -1,4 +1,4 @@
-// All symbols in the Pf category as per Unicode v4.0.1:
+// All symbols in the `Pf` category as per Unicode v4.0.1:
 [
 	'\xBB',
 	'\u2019',

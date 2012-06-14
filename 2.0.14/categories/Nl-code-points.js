@@ -1,4 +1,4 @@
-// All code points in the Nl category as per Unicode v2.0.14:
+// All code points in the `Nl` category as per Unicode v2.0.14:
 [
 	0x2160,
 	0x2161,

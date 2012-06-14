@@ -1,4 +1,4 @@
-// All code points in the No category as per Unicode v2.1.9:
+// All code points in the `No` category as per Unicode v2.1.9:
 [
 	0xB2,
 	0xB3,

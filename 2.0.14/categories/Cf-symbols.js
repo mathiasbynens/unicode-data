@@ -1,4 +1,4 @@
-// All symbols in the Cf category as per Unicode v2.0.14:
+// All symbols in the `Cf` category as per Unicode v2.0.14:
 [
 	'\u200C',
 	'\u200D',

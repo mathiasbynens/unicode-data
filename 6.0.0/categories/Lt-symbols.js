@@ -1,4 +1,4 @@
-// All symbols in the Lt category as per Unicode v6.0.0:
+// All symbols in the `Lt` category as per Unicode v6.0.0:
 [
 	'\u01C5',
 	'\u01C8',

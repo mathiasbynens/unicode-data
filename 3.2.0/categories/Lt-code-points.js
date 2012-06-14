@@ -1,4 +1,4 @@
-// All code points in the Lt category as per Unicode v3.2.0:
+// All code points in the `Lt` category as per Unicode v3.2.0:
 [
 	0x1C5,
 	0x1C8,

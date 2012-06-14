@@ -1,4 +1,4 @@
-// All code points in the Cc category as per Unicode v6.0.0:
+// All code points in the `Cc` category as per Unicode v6.0.0:
 [
 	0x0,
 	0x1,

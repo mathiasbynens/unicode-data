@@ -1,4 +1,4 @@
-// All code points in the Pf category as per Unicode v2.1.9:
+// All code points in the `Pf` category as per Unicode v2.1.9:
 [
 	0xBB,
 	0x2019,

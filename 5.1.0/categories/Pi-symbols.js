@@ -1,4 +1,4 @@
-// All symbols in the Pi category as per Unicode v5.1.0:
+// All symbols in the `Pi` category as per Unicode v5.1.0:
 [
 	'\xAB',
 	'\u2018',

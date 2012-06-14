@@ -1,4 +1,4 @@
-// All symbols in the Mc category as per Unicode v2.1.9:
+// All symbols in the `Mc` category as per Unicode v2.1.9:
 [
 	'\u0903',
 	'\u093E',

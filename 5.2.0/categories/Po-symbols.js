@@ -1,4 +1,4 @@
-// All symbols in the Po category as per Unicode v5.2.0:
+// All symbols in the `Po` category as per Unicode v5.2.0:
 [
 	'\x21',
 	'\x22',

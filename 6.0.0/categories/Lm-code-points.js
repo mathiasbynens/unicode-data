@@ -1,4 +1,4 @@
-// All code points in the Lm category as per Unicode v6.0.0:
+// All code points in the `Lm` category as per Unicode v6.0.0:
 [
 	0x2B0,
 	0x2B1,

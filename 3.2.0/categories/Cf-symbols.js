@@ -1,4 +1,4 @@
-// All symbols in the Cf category as per Unicode v3.2.0:
+// All symbols in the `Cf` category as per Unicode v3.2.0:
 [
 	'\u06DD',
 	'\u070F',

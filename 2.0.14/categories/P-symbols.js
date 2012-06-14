@@ -1,4 +1,4 @@
-// All symbols in the P category as per Unicode v2.0.14:
+// All symbols in the `P` category as per Unicode v2.0.14:
 [
 	'\x21',
 	'\x22',

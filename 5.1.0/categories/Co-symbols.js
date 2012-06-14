@@ -1,4 +1,4 @@
-// All symbols in the Co category as per Unicode v5.1.0:
+// All symbols in the `Co` category as per Unicode v5.1.0:
 [
 	'\uE000',
 	'\uE001',

@@ -1,4 +1,4 @@
-// All code points in the Ll category as per Unicode v2.1.9:
+// All code points in the `Ll` category as per Unicode v2.1.9:
 [
 	0x61,
 	0x62,

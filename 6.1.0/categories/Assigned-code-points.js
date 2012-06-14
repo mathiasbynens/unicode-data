@@ -1,4 +1,4 @@
-// All code points in the Assigned category as per Unicode v6.1.0:
+// All code points in the `Assigned` category as per Unicode v6.1.0:
 [
 	0x0,
 	0x1,

@@ -1,4 +1,4 @@
-// All code points in the Sk category as per Unicode v5.2.0:
+// All code points in the `Sk` category as per Unicode v5.2.0:
 [
 	0x5E,
 	0x60,

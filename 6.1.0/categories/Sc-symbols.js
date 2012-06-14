@@ -1,4 +1,4 @@
-// All symbols in the Sc category as per Unicode v6.1.0:
+// All symbols in the `Sc` category as per Unicode v6.1.0:
 [
 	'\x24',
 	'\xA2',

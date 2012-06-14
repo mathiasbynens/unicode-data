@@ -1,4 +1,4 @@
-// All code points in the Ps category as per Unicode v4.1.0:
+// All code points in the `Ps` category as per Unicode v4.1.0:
 [
 	0x28,
 	0x5B,

@@ -1,4 +1,4 @@
-// All symbols in the Ps category as per Unicode v2.1.9:
+// All symbols in the `Ps` category as per Unicode v2.1.9:
 [
 	'\x28',
 	'\x5B',

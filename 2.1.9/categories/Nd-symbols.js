@@ -1,4 +1,4 @@
-// All symbols in the Nd category as per Unicode v2.1.9:
+// All symbols in the `Nd` category as per Unicode v2.1.9:
 [
 	'0',
 	'1',

@@ -1,4 +1,4 @@
-// All code points in the Cf category as per Unicode v5.0.0:
+// All code points in the `Cf` category as per Unicode v5.0.0:
 [
 	0xAD,
 	0x600,

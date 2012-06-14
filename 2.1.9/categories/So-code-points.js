@@ -1,4 +1,4 @@
-// All code points in the So category as per Unicode v2.1.9:
+// All code points in the `So` category as per Unicode v2.1.9:
 [
 	0xA6,
 	0xA7,

@@ -1,4 +1,4 @@
-// All code points in the Sc category as per Unicode v4.0.1:
+// All code points in the `Sc` category as per Unicode v4.0.1:
 [
 	0x24,
 	0xA2,

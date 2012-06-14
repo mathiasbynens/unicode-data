@@ -1,4 +1,4 @@
-// All code points in the Mn category as per Unicode v6.1.0:
+// All code points in the `Mn` category as per Unicode v6.1.0:
 [
 	0x300,
 	0x301,
