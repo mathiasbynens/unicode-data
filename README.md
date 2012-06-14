@@ -6,7 +6,7 @@ For example, I’ve used a variation of this data in the following test case: <h
 
 ## Generated data
 
-Per Unicode **category**, two separate files will be created:
+Per Unicode **category**, a number of separate files will be created:
 
  * `${version}/categories/${category}-code-points.js`: a JavaScript-compatible array containing all numerical Unicode code points in that category.
  * `${version}/categories/${category}-symbols.js`: a JavaScript-compatible array containing all Unicode symbols in that category as strings.
