@@ -1,5 +1,0 @@
-// All symbols in the CYRILLIC # L&   [2] CYRILLIC CAPITAL LETTER YERU WITH DIAERESIS..CYRILLIC SMALL LETTER YERU WITH DIAERESIS block as per Unicode v3.2.0:
-[
-	'0x4F8',
-	'0x4F9'
-];

@@ -1,7 +1,0 @@
-// All symbols in the Arabic # Lo   [4] ARABIC MATHEMATICAL STRETCHED DAD..ARABIC MATHEMATICAL STRETCHED DOTLESS BEH block as per Unicode v6.1.0:
-[
-	'0x1EE79',
-	'0x1EE7A',
-	'0x1EE7B',
-	'0x1EE7C'
-];

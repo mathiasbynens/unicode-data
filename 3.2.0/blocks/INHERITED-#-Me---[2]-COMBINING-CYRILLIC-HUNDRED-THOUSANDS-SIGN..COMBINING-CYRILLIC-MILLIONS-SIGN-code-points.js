@@ -1,5 +1,0 @@
-// All symbols in the INHERITED # Me   [2] COMBINING CYRILLIC HUNDRED THOUSANDS SIGN..COMBINING CYRILLIC MILLIONS SIGN block as per Unicode v3.2.0:
-[
-	'0x488',
-	'0x489'
-];

@@ -75,7 +75,7 @@ for file in data/*-blocks.txt; do
 	version="${file%-*}"
 	mkdir -p "${version}/blocks"
 	echo "Parsing Unicode v${version} blocks..."
-	python scripts/block-code-points.py "data/${version}-scripts.txt" "${version}"
+	python scripts/block-code-points.py "data/${version}-blocks.txt" "${version}"
 	python scripts/block-symbols.py "data/${version}-blocks.txt" "${version}"
 	python scripts/block-regex.py "data/${version}-blocks.txt" "${version}"
 done
