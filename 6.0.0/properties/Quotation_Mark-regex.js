@@ -1,2 +1,2 @@
 // Regular expression that matches all symbols with the `Quotation_Mark` property as per Unicode v6.0.0:
-/[\x22\x27\xAB\xBB\u2018-\u201F\u2039\u203A\u300C-\u300F\u301D-\u301F\uFE41-\uFE44\uFF02\uFF07\uFF62\uFF63]/;
+/[\x22\x27\xAB\xBB\u2018-\u201F\u2039\u203A\u300C-\u300F\u301D-\u301F\uFE41-\uFE44\uFF02\uFF07\uFF62\uFF63]|/;

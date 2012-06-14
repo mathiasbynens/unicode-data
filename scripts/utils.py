@@ -15,7 +15,7 @@ def lowSurrogate(codePoint):
 def codePointToString(codePoint):
 	if codePoint == 0:
 		string = '\\0' # http://mathiasbynens.be/notes/javascript-escapes#single
-	if codePoint == 0x20 or (codePoint >= 0x41 and codePoint <= 0x5A) or (codePoint >= 0x61 and codePoint <= 0x7A) or (codePoint >= 0x30 and codePoint <= 0x39): # [a-zA-Z0-9 ]
+	elif codePoint == 0x20 or (codePoint >= 0x41 and codePoint <= 0x5A) or (codePoint >= 0x61 and codePoint <= 0x7A) or (codePoint >= 0x30 and codePoint <= 0x39): # [a-zA-Z0-9 ]
 		string = chr(codePoint)
 	elif codePoint <= 0xFF: # http://mathiasbynens.be/notes/javascript-escapes#hexadecimal
 		string = '\\x' + '%02X' % codePoint
@@ -28,11 +28,14 @@ def codePointToString(codePoint):
 def createRange(codePointList):
 	bmp = []
 	supplementary = defaultdict(list)
+	surrogates = []
 
 	for codePoint in codePointList:
-		if codePoint <= 0xFFFF:
+		if codePoint >= 0xD800 and codePoint <= 0xDBFF: # code points that are high surrogates go at the end
+			surrogates.append(codePoint)
+		elif codePoint <= 0xFFFF:
 			bmp.append(codePoint)
-		else:
+		else: # supplementary code point
 			supplementary[highSurrogate(codePoint)].append(lowSurrogate(codePoint))
 
 	supplementaryDictByLowRanges = defaultdict(list)
@@ -47,6 +50,9 @@ def createRange(codePointList):
 		buf.append(createBMPRange(bmp))
 	for lo, hi in supplementaryDictByLowRanges.items():
 		buf.append(createBMPRange(hi) + lo)
+
+	# individual code points that are high surrogates must go at the end
+	buf.append(createBMPRange(surrogates))
 
 	return '|'.join(buf)
 

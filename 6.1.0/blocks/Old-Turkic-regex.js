@@ -1,2 +1,2 @@
 // Regular expression that matches all symbols in the Old Turkic block as per Unicode v6.1.0:
-/\uD803[\uDC00-\uDC4F]/;
+/\uD803[\uDC00-\uDC4F]|/;

@@ -1,6 +1,6 @@
 // All symbols in the ASCII category as per Unicode v4.1.0:
 [
-	'\x00',
+	'\0',
 	'\x01',
 	'\x02',
 	'\x03',

@@ -8,24 +8,24 @@ For example, I’ve used a variation of this data in the following test case: <h
 
 Per Unicode **category**, two separate files will be created:
 
-* `${version}/categories/${category}-symbols.js`: a JavaScript-compatible array containing all Unicode symbols in that category.
-* `${version}/categories/${category}-regex.js`: a JavaScript-compatible regular expression that matches all Unicode symbols in that category.
+ * `${version}/categories/${category}-symbols.js`: a JavaScript-compatible array containing all Unicode symbols in that category.
+ * `${version}/categories/${category}-regex.js`: a JavaScript-compatible regular expression that matches all Unicode symbols in that category.
 
 The same thing is done for **scripts**, **blocks**, and **properties**.
 
 The data is currently being generated for the following Unicode versions:
 
-* 2.0.14
-* 2.1.9
-* 3.0.1
-* 3.2.0
-* 4.0.1
-* 4.1.0
-* 5.0.0
-* 5.1.0
-* 5.2.0
-* 6.0.0
-* 6.1.0
+ * 2.0.14
+ * 2.1.9
+ * 3.0.1
+ * 3.2.0
+ * 4.0.1
+ * 4.1.0
+ * 5.0.0
+ * 5.1.0
+ * 5.2.0
+ * 6.0.0
+ * 6.1.0
 
 I’ll update this repository (and this list) as soon as new Unicode versions are released.
 
@@ -53,14 +53,22 @@ http://mathias.html5.org/data/unicode/format?version=6.1.0&category=LLCtype=symb
 
 ### Available query string parameters
 
- * `category`: can be any Unicode category; defaults to `Ll`
+ * `category`: can be any Unicode category
+ * `script`: can be any Unicode script
+ * `property`: can be any Unicode property
+ * `block`: can be any Unicode block
  * `type`: can be `symbols` or `regex`, defaults to `symbols`
  * `prepend`: defaults to the empty string
  * `append`: defaults to the empty string
 
 ## Credits
 
-Thanks to [Yusuke Suzuki](http://twitter.com/Constellation) for writing [his Unicode database parser in Python](http://code.google.com/p/esprima/issues/detail?id=110#c1), and to [Michaeljohn “inimino” Clement](http://inimino.org/) for [detailing the problems with regular expression ranges in JavaScript](http://inimino.org/~inimino/blog/javascript_cset).
+Thanks to:
+
+ * [Yusuke Suzuki](http://twitter.com/Constellation) for writing [his Unicode database parser in Python](http://code.google.com/p/esprima/issues/detail?id=110#c1).
+ * [Michaeljohn “inimino” Clement](http://inimino.org/) for [detailing the problems with regular expression ranges in JavaScript](http://inimino.org/~inimino/blog/javascript_cset).
+ * [Jan Moesen](http://jan.moesen.nu/) for teaching me about Bash’s Insanely Fantastic Splitting™.
+ * [Steven Levithan](http://stevenlevithan.com/) for the valuable feedback and suggestions.
 
 ## Author
 
