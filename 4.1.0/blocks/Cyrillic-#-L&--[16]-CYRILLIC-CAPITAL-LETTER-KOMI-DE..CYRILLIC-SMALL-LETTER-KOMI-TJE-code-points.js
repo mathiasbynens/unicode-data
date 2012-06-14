@@ -1,0 +1,19 @@
+// All symbols in the Cyrillic # L&  [16] CYRILLIC CAPITAL LETTER KOMI DE..CYRILLIC SMALL LETTER KOMI TJE block as per Unicode v4.1.0:
+[
+	'0x500',
+	'0x501',
+	'0x502',
+	'0x503',
+	'0x504',
+	'0x505',
+	'0x506',
+	'0x507',
+	'0x508',
+	'0x509',
+	'0x50A',
+	'0x50B',
+	'0x50C',
+	'0x50D',
+	'0x50E',
+	'0x50F'
+];

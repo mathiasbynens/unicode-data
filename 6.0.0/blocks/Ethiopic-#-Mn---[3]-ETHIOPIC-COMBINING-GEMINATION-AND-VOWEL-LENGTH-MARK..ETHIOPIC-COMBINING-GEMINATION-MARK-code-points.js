@@ -1,0 +1,6 @@
+// All symbols in the Ethiopic # Mn   [3] ETHIOPIC COMBINING GEMINATION AND VOWEL LENGTH MARK..ETHIOPIC COMBINING GEMINATION MARK block as per Unicode v6.0.0:
+[
+	'0x135D',
+	'0x135E',
+	'0x135F'
+];

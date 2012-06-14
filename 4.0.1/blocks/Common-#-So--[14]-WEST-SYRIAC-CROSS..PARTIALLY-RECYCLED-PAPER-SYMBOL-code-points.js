@@ -1,0 +1,17 @@
+// All symbols in the Common # So  [14] WEST SYRIAC CROSS..PARTIALLY-RECYCLED PAPER SYMBOL block as per Unicode v4.0.1:
+[
+	'0x2670',
+	'0x2671',
+	'0x2672',
+	'0x2673',
+	'0x2674',
+	'0x2675',
+	'0x2676',
+	'0x2677',
+	'0x2678',
+	'0x2679',
+	'0x267A',
+	'0x267B',
+	'0x267C',
+	'0x267D'
+];

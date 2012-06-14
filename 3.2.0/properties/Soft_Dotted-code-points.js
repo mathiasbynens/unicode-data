@@ -1,0 +1,11 @@
+// All code points with the `Soft_Dotted` property as per Unicode v3.2.0:
+[
+	0x69,
+	0x6A,
+	0x12F,
+	0x268,
+	0x456,
+	0x458,
+	0x1E2D,
+	0x1ECB
+];

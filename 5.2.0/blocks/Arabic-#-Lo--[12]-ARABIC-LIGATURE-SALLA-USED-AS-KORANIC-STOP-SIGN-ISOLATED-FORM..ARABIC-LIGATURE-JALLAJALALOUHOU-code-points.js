@@ -1,0 +1,15 @@
+// All symbols in the Arabic # Lo  [12] ARABIC LIGATURE SALLA USED AS KORANIC STOP SIGN ISOLATED FORM..ARABIC LIGATURE JALLAJALALOUHOU block as per Unicode v5.2.0:
+[
+	'0xFDF0',
+	'0xFDF1',
+	'0xFDF2',
+	'0xFDF3',
+	'0xFDF4',
+	'0xFDF5',
+	'0xFDF6',
+	'0xFDF7',
+	'0xFDF8',
+	'0xFDF9',
+	'0xFDFA',
+	'0xFDFB'
+];

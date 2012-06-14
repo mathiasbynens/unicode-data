@@ -1,0 +1,6 @@
+// All symbols in the Greek # L&   [3] GREEK SMALL LETTER ETA WITH VARIA AND YPOGEGRAMMENI..GREEK SMALL LETTER ETA WITH OXIA AND YPOGEGRAMMENI block as per Unicode v6.0.0:
+[
+	'0x1FC2',
+	'0x1FC3',
+	'0x1FC4'
+];

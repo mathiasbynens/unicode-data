@@ -1,0 +1,13 @@
+// All code points with the `Logical_Order_Exception` property as per Unicode v4.0.1:
+[
+	0xE40,
+	0xE41,
+	0xE42,
+	0xE43,
+	0xE44,
+	0xEC0,
+	0xEC1,
+	0xEC2,
+	0xEC3,
+	0xEC4
+];

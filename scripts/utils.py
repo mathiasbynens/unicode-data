@@ -25,6 +25,9 @@ def codePointToString(codePoint):
 		string = '\\u' + '%04X' % highSurrogate(codePoint) + '\\u' + '%04X' % lowSurrogate(codePoint)
 	return string
 
+def hexify(codePoint):
+	return '0x' + hex(codePoint)[2:].upper()
+
 def createRange(codePointList):
 	bmp = []
 	supplementary = defaultdict(list)

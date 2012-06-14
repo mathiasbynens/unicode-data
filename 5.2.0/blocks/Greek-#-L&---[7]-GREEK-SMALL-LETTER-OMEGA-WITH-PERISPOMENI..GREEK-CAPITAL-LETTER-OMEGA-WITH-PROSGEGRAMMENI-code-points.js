@@ -1,0 +1,10 @@
+// All symbols in the Greek # L&   [7] GREEK SMALL LETTER OMEGA WITH PERISPOMENI..GREEK CAPITAL LETTER OMEGA WITH PROSGEGRAMMENI block as per Unicode v5.2.0:
+[
+	'0x1FF6',
+	'0x1FF7',
+	'0x1FF8',
+	'0x1FF9',
+	'0x1FFA',
+	'0x1FFB',
+	'0x1FFC'
+];

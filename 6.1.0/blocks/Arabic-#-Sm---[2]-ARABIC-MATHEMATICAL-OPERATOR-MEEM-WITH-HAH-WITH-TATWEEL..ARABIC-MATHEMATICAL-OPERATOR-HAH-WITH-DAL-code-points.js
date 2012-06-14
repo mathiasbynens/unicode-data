@@ -1,0 +1,5 @@
+// All symbols in the Arabic # Sm   [2] ARABIC MATHEMATICAL OPERATOR MEEM WITH HAH WITH TATWEEL..ARABIC MATHEMATICAL OPERATOR HAH WITH DAL block as per Unicode v6.1.0:
+[
+	'0x1EEF0',
+	'0x1EEF1'
+];

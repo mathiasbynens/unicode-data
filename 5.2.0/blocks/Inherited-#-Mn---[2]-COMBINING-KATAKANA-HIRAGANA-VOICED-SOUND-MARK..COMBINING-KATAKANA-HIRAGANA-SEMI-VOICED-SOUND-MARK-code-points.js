@@ -1,0 +1,5 @@
+// All symbols in the Inherited # Mn   [2] COMBINING KATAKANA-HIRAGANA VOICED SOUND MARK..COMBINING KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK block as per Unicode v5.2.0:
+[
+	'0x3099',
+	'0x309A'
+];

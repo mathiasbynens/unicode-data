@@ -1,0 +1,28 @@
+// All symbols in the Common # L&  [25] MATHEMATICAL SANS-SERIF BOLD SMALL ALPHA..MATHEMATICAL SANS-SERIF BOLD SMALL OMEGA block as per Unicode v6.0.0:
+[
+	'0x1D770',
+	'0x1D771',
+	'0x1D772',
+	'0x1D773',
+	'0x1D774',
+	'0x1D775',
+	'0x1D776',
+	'0x1D777',
+	'0x1D778',
+	'0x1D779',
+	'0x1D77A',
+	'0x1D77B',
+	'0x1D77C',
+	'0x1D77D',
+	'0x1D77E',
+	'0x1D77F',
+	'0x1D780',
+	'0x1D781',
+	'0x1D782',
+	'0x1D783',
+	'0x1D784',
+	'0x1D785',
+	'0x1D786',
+	'0x1D787',
+	'0x1D788'
+];

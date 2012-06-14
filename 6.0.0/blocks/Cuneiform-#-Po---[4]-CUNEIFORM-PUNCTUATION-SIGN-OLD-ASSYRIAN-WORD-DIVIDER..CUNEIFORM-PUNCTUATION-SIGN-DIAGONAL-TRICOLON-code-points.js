@@ -1,0 +1,7 @@
+// All symbols in the Cuneiform # Po   [4] CUNEIFORM PUNCTUATION SIGN OLD ASSYRIAN WORD DIVIDER..CUNEIFORM PUNCTUATION SIGN DIAGONAL TRICOLON block as per Unicode v6.0.0:
+[
+	'0x12470',
+	'0x12471',
+	'0x12472',
+	'0x12473'
+];

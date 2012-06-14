@@ -1,0 +1,4 @@
+// All symbols in the Oriya # So       ORIYA ISSHAR block as per Unicode v6.1.0:
+[
+	'0xB70'
+];

@@ -1,0 +1,18 @@
+// All symbols in the Tibetan # Po  [15] TIBETAN MARK INITIAL YIG MGO MDUN MA..TIBETAN MARK RGYA GRAM SHAD block as per Unicode v5.1.0:
+[
+	'0xF04',
+	'0xF05',
+	'0xF06',
+	'0xF07',
+	'0xF08',
+	'0xF09',
+	'0xF0A',
+	'0xF0B',
+	'0xF0C',
+	'0xF0D',
+	'0xF0E',
+	'0xF0F',
+	'0xF10',
+	'0xF11',
+	'0xF12'
+];

@@ -1,0 +1,18 @@
+// All symbols in the Samaritan # Po  [15] SAMARITAN PUNCTUATION NEQUDAA..SAMARITAN PUNCTUATION ANNAAU block as per Unicode v6.0.0:
+[
+	'0x830',
+	'0x831',
+	'0x832',
+	'0x833',
+	'0x834',
+	'0x835',
+	'0x836',
+	'0x837',
+	'0x838',
+	'0x839',
+	'0x83A',
+	'0x83B',
+	'0x83C',
+	'0x83D',
+	'0x83E'
+];

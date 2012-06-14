@@ -8,7 +8,8 @@ For example, I’ve used a variation of this data in the following test case: <h
 
 Per Unicode **category**, two separate files will be created:
 
- * `${version}/categories/${category}-symbols.js`: a JavaScript-compatible array containing all Unicode symbols in that category.
+ * `${version}/categories/${category}-code-points.js`: a JavaScript-compatible array containing all numerical Unicode code points in that category.
+ * `${version}/categories/${category}-symbols.js`: a JavaScript-compatible array containing all Unicode symbols in that category as strings.
  * `${version}/categories/${category}-regex.js`: a JavaScript-compatible regular expression that matches all Unicode symbols in that category.
 
 The same thing is done for **scripts**, **blocks**, and **properties**.
@@ -57,9 +58,10 @@ http://mathias.html5.org/data/unicode/format?version=6.1.0&category=LLCtype=symb
  * `script`: can be any Unicode script
  * `property`: can be any Unicode property
  * `block`: can be any Unicode block
- * `type`: can be `symbols` or `regex`, defaults to `symbols`
- * `prepend`: defaults to the empty string
- * `append`: defaults to the empty string
+ * `type`: can be `code-points`, `symbols` or `regex`; defaults to `symbols`
+ * `version`: can be any Unicode version for which data is available; defaults to the latest available version
+ * `prepend`: a string to prepend to the output; defaults to the empty string
+ * `append`: a string to append to the output; defaults to the empty string
 
 ## Credits
 

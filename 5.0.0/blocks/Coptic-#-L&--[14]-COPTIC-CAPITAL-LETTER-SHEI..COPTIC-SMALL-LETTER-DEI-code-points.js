@@ -1,0 +1,17 @@
+// All symbols in the Coptic # L&  [14] COPTIC CAPITAL LETTER SHEI..COPTIC SMALL LETTER DEI block as per Unicode v5.0.0:
+[
+	'0x3E2',
+	'0x3E3',
+	'0x3E4',
+	'0x3E5',
+	'0x3E6',
+	'0x3E7',
+	'0x3E8',
+	'0x3E9',
+	'0x3EA',
+	'0x3EB',
+	'0x3EC',
+	'0x3ED',
+	'0x3EE',
+	'0x3EF'
+];

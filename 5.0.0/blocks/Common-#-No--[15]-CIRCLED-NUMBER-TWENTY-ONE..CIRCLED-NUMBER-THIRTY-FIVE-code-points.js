@@ -1,0 +1,18 @@
+// All symbols in the Common # No  [15] CIRCLED NUMBER TWENTY ONE..CIRCLED NUMBER THIRTY FIVE block as per Unicode v5.0.0:
+[
+	'0x3251',
+	'0x3252',
+	'0x3253',
+	'0x3254',
+	'0x3255',
+	'0x3256',
+	'0x3257',
+	'0x3258',
+	'0x3259',
+	'0x325A',
+	'0x325B',
+	'0x325C',
+	'0x325D',
+	'0x325E',
+	'0x325F'
+];

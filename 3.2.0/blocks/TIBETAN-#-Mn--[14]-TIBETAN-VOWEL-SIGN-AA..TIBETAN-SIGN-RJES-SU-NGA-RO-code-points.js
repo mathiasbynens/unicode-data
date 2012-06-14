@@ -1,0 +1,17 @@
+// All symbols in the TIBETAN # Mn  [14] TIBETAN VOWEL SIGN AA..TIBETAN SIGN RJES SU NGA RO block as per Unicode v3.2.0:
+[
+	'0xF71',
+	'0xF72',
+	'0xF73',
+	'0xF74',
+	'0xF75',
+	'0xF76',
+	'0xF77',
+	'0xF78',
+	'0xF79',
+	'0xF7A',
+	'0xF7B',
+	'0xF7C',
+	'0xF7D',
+	'0xF7E'
+];

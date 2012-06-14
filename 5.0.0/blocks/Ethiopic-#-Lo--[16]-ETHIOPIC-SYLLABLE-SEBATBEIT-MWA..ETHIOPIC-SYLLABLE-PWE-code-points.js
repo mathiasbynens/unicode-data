@@ -1,0 +1,19 @@
+// All symbols in the Ethiopic # Lo  [16] ETHIOPIC SYLLABLE SEBATBEIT MWA..ETHIOPIC SYLLABLE PWE block as per Unicode v5.0.0:
+[
+	'0x1380',
+	'0x1381',
+	'0x1382',
+	'0x1383',
+	'0x1384',
+	'0x1385',
+	'0x1386',
+	'0x1387',
+	'0x1388',
+	'0x1389',
+	'0x138A',
+	'0x138B',
+	'0x138C',
+	'0x138D',
+	'0x138E',
+	'0x138F'
+];

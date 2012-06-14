@@ -1,0 +1,18 @@
+// All symbols in the Common # So  [15] PLAYING CARD BACK..PLAYING CARD KING OF SPADES block as per Unicode v6.1.0:
+[
+	'0x1F0A0',
+	'0x1F0A1',
+	'0x1F0A2',
+	'0x1F0A3',
+	'0x1F0A4',
+	'0x1F0A5',
+	'0x1F0A6',
+	'0x1F0A7',
+	'0x1F0A8',
+	'0x1F0A9',
+	'0x1F0AA',
+	'0x1F0AB',
+	'0x1F0AC',
+	'0x1F0AD',
+	'0x1F0AE'
+];

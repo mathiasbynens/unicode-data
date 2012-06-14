@@ -1,0 +1,7 @@
+// All symbols in the INHERITED # Mn   [4] MUSICAL SYMBOL COMBINING DOWN BOW..MUSICAL SYMBOL COMBINING SNAP PIZZICATO block as per Unicode v3.2.0:
+[
+	'0x1D1AA',
+	'0x1D1AB',
+	'0x1D1AC',
+	'0x1D1AD'
+];

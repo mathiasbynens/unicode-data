@@ -1,0 +1,9 @@
+// All symbols in the Common # Sm   [6] REVERSE TILDE OPERATOR ABOVE RIGHTWARDS ARROW..RIGHTWARDS ARROW ABOVE REVERSE TILDE OPERATOR block as per Unicode v6.1.0:
+[
+	'0x2B47',
+	'0x2B48',
+	'0x2B49',
+	'0x2B4A',
+	'0x2B4B',
+	'0x2B4C'
+];

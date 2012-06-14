@@ -1,0 +1,19 @@
+// All symbols in the Common # So  [16] GRINNING FACE WITH SMILING EYES..NEUTRAL FACE block as per Unicode v6.0.0:
+[
+	'0x1F601',
+	'0x1F602',
+	'0x1F603',
+	'0x1F604',
+	'0x1F605',
+	'0x1F606',
+	'0x1F607',
+	'0x1F608',
+	'0x1F609',
+	'0x1F60A',
+	'0x1F60B',
+	'0x1F60C',
+	'0x1F60D',
+	'0x1F60E',
+	'0x1F60F',
+	'0x1F610'
+];

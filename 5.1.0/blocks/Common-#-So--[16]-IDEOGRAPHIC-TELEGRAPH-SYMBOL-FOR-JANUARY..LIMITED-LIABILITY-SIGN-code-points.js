@@ -1,0 +1,19 @@
+// All symbols in the Common # So  [16] IDEOGRAPHIC TELEGRAPH SYMBOL FOR JANUARY..LIMITED LIABILITY SIGN block as per Unicode v5.1.0:
+[
+	'0x32C0',
+	'0x32C1',
+	'0x32C2',
+	'0x32C3',
+	'0x32C4',
+	'0x32C5',
+	'0x32C6',
+	'0x32C7',
+	'0x32C8',
+	'0x32C9',
+	'0x32CA',
+	'0x32CB',
+	'0x32CC',
+	'0x32CD',
+	'0x32CE',
+	'0x32CF'
+];

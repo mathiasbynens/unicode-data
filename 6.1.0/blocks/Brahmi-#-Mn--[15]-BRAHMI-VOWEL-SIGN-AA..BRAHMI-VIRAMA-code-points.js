@@ -1,0 +1,18 @@
+// All symbols in the Brahmi # Mn  [15] BRAHMI VOWEL SIGN AA..BRAHMI VIRAMA block as per Unicode v6.1.0:
+[
+	'0x11038',
+	'0x11039',
+	'0x1103A',
+	'0x1103B',
+	'0x1103C',
+	'0x1103D',
+	'0x1103E',
+	'0x1103F',
+	'0x11040',
+	'0x11041',
+	'0x11042',
+	'0x11043',
+	'0x11044',
+	'0x11045',
+	'0x11046'
+];

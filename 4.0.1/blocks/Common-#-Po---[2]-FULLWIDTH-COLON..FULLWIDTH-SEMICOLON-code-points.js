@@ -1,0 +1,5 @@
+// All symbols in the Common # Po   [2] FULLWIDTH COLON..FULLWIDTH SEMICOLON block as per Unicode v4.0.1:
+[
+	'0xFF1A',
+	'0xFF1B'
+];

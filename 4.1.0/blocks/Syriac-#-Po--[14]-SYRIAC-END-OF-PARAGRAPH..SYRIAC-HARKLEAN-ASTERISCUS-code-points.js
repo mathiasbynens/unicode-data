@@ -1,0 +1,17 @@
+// All symbols in the Syriac # Po  [14] SYRIAC END OF PARAGRAPH..SYRIAC HARKLEAN ASTERISCUS block as per Unicode v4.1.0:
+[
+	'0x700',
+	'0x701',
+	'0x702',
+	'0x703',
+	'0x704',
+	'0x705',
+	'0x706',
+	'0x707',
+	'0x708',
+	'0x709',
+	'0x70A',
+	'0x70B',
+	'0x70C',
+	'0x70D'
+];
