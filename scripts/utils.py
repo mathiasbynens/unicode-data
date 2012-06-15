@@ -15,7 +15,7 @@ def lowSurrogate(codePoint):
 def codePointToString(codePoint):
 	if codePoint == 0:
 		string = '\\0' # http://mathiasbynens.be/notes/javascript-escapes#single
-	elif codePoint == 0x20 or (codePoint >= 0x41 and codePoint <= 0x5A) or (codePoint >= 0x61 and codePoint <= 0x7A) or (codePoint >= 0x30 and codePoint <= 0x39): # [a-zA-Z0-9 ]
+	elif (codePoint >= 0x41 and codePoint <= 0x5A) or (codePoint >= 0x61 and codePoint <= 0x7A) or (codePoint >= 0x30 and codePoint <= 0x39): # [a-zA-Z0-9]
 		string = chr(codePoint)
 	elif codePoint <= 0xFF: # http://mathiasbynens.be/notes/javascript-escapes#hexadecimal
 		string = '\\x' + '%02X' % codePoint

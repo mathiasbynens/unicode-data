@@ -1,6 +1,6 @@
 // All symbols in the `Zs` category as per Unicode v4.1.0:
 [
-	' ',
+	'\x20',
 	'\xA0',
 	'\u1680',
 	'\u180E',

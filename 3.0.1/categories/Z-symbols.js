@@ -1,6 +1,6 @@
 // All symbols in the `Z` category as per Unicode v3.0.1:
 [
-	' ',
+	'\x20',
 	'\xA0',
 	'\u1680',
 	'\u2000',
