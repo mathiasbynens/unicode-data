@@ -49,7 +49,7 @@ The generated data is fully tested by a script that verifies that, within the ra
 I’ve set up an HTTP API of sorts, which allows you to customize the output a little bit. This saves you from downloading, editing, and re-hosting the generated files if you just want to write some quick tests. Here’s an example:
 
 ```
-http://mathias.html5.org/data/unicode/format?version=6.1.0&category=LLCtype=symbols&prepend=window.symbols%20%3D%20&append=%3B
+http://mathias.html5.org/data/unicode/format?version=6.1.0&category=Ll&type=symbols&prepend=window.symbols%20%3D%20&append=%3B
 ```
 
 ### Available query string parameters
