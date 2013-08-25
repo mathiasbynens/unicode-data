@@ -110,6 +110,14 @@ def parseDatabase(sourceFile, storeAsStrings=False):
 		for line in uni:
 			d = string.split(line.strip(), ';')
 			val = int(d[0], 16)
+			if d[1][:1] == '<' and d[1][-1:] == '>':
+				name = (d[1] + ' ' + d[10]).strip()
+				# TODO: get aliases from NameAliases.txt too
+				print(val)
+				print(name)
+			else:
+				name = d[1]
+			#print(name)
 			if flag:
 				if re.compile('<.+, Last>').match(d[1]):
 					# print '%s: u%X' % (d[1], val)
@@ -155,7 +163,6 @@ def parseScriptsOrProps(sourceFile, storeAsStrings=False):
 				continue
 			data = string.split(line.strip(), ';')
 			charRange = data[0].replace('..', '-').strip()
-			length = len(charRange)
 			script = data[1].split('#')[0].strip()
 			rangeParts = charRange.split('-')
 			if len(rangeParts) == 2:
@@ -175,7 +182,6 @@ def parseBlocks(sourceFile, storeAsStrings=False):
 				continue
 			data = string.split(line.strip(), ';')
 			charRange = data[0].replace('..', '-').strip()
-			length = len(charRange)
 			script = data[1].split(';')[0].strip()
 			rangeParts = charRange.split('-')
 			if len(rangeParts) == 2:
