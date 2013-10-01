@@ -1,6 +1,6 @@
 // All symbols in the `Assigned` category as per Unicode v6.1.0:
 [
-	'\0',
+	'\x00',
 	'\x01',
 	'\x02',
 	'\x03',

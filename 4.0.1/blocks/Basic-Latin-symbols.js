@@ -1,6 +1,6 @@
 // All symbols in the Basic Latin block as per Unicode v4.0.1:
 [
-	'\0',
+	'\x00',
 	'\x01',
 	'\x02',
 	'\x03',

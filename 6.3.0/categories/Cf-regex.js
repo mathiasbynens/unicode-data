@@ -1,0 +1,2 @@
+// Regular expression that matches all symbols in the `Cf` category as per Unicode v6.3.0:
+/[\xAD\u0600-\u0604\u061C\u06DD\u070F\u180E\u200B-\u200F\u202A-\u202E\u2060-\u2064\u2066-\u206F\uFEFF\uFFF9-\uFFFB]|\uDB40[\uDC01\uDC20-\uDC7F]|\uD834[\uDD73-\uDD7A]|\uD804\uDCBD/;

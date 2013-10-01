@@ -113,8 +113,8 @@ def parseDatabase(sourceFile, storeAsStrings=False):
 			if d[1][:1] == '<' and d[1][-1:] == '>':
 				name = (d[1] + ' ' + d[10]).strip()
 				# TODO: get aliases from NameAliases.txt too
-				print(val)
-				print(name)
+				#print(val)
+				#print(name)
 			else:
 				name = d[1]
 			#print(name)

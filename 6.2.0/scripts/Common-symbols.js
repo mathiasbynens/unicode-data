@@ -1,6 +1,6 @@
 // All symbols in the `Common` script as per Unicode v6.2.0:
 [
-	'\0',
+	'\x00',
 	'\x01',
 	'\x02',
 	'\x03',
