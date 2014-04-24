@@ -1,0 +1,2 @@
+// Regular expression that matches all symbols with the `Grapheme_Link` derived core property as per Unicode v5.0.0:
+/[\u094D\u09CD\u0A4D\u0ACD\u0B4D\u0BCD\u0C4D\u0CCD\u0D4D\u0DCA\u0E3A\u0F84\u1039\u1714\u1734\u17D2\u1B44\uA806]|\uD802\uDE3F/;

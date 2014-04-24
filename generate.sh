@@ -10,16 +10,16 @@ versions=(
 	"2.1.9@http://unicode.org/Public/2.1-Update4/UnicodeData-2.1.9.txt"
 	"3.0.1@http://unicode.org/Public/3.0-Update1/UnicodeData-3.0.1.txt"
 	# 3.2.0 and newer have separate files for Scripts and Blocks
-	"3.2.0@http://unicode.org/Public/3.2-Update/UnicodeData-3.2.0.txt@http://unicode.org/Public/3.2-Update/Scripts-3.2.0.txt@http://unicode.org/Public/3.2-Update/Blocks-3.2.0.txt@http://unicode.org/Public/3.2-Update/PropList-3.2.0.txt"
-	"4.0.1@http://unicode.org/Public/4.0-Update1/UnicodeData-4.0.1.txt@http://unicode.org/Public/4.0-Update1/Scripts-4.0.1.txt@http://unicode.org/Public/4.0-Update1/Blocks-4.0.1.txt@http://unicode.org/Public/4.0-Update1/PropList-4.0.1.txt"
-	"4.1.0@http://unicode.org/Public/4.1.0/ucd/UnicodeData.txt@http://unicode.org/Public/4.1.0/ucd/Scripts.txt@http://unicode.org/Public/4.1.0/ucd/Blocks.txt@http://unicode.org/Public/4.1.0/ucd/PropList.txt"
-	"5.0.0@http://unicode.org/Public/5.0.0/ucd/UnicodeData.txt@http://unicode.org/Public/5.0.0/ucd/Scripts.txt@http://unicode.org/Public/5.0.0/ucd/Blocks.txt@http://unicode.org/Public/5.0.0/ucd/PropList.txt"
-	"5.1.0@http://unicode.org/Public/5.1.0/ucd/UnicodeData.txt@http://unicode.org/Public/5.1.0/ucd/Scripts.txt@http://unicode.org/Public/5.1.0/ucd/Blocks.txt@http://unicode.org/Public/5.1.0/ucd/PropList.txt"
-	"5.2.0@http://unicode.org/Public/5.2.0/ucd/UnicodeData.txt@http://unicode.org/Public/5.2.0/ucd/Scripts.txt@http://unicode.org/Public/5.2.0/ucd/Blocks.txt@http://unicode.org/Public/5.2.0/ucd/PropList.txt"
-	"6.0.0@http://unicode.org/Public/6.0.0/ucd/UnicodeData.txt@http://unicode.org/Public/6.0.0/ucd/Scripts.txt@http://unicode.org/Public/6.0.0/ucd/Blocks.txt@http://unicode.org/Public/6.0.0/ucd/PropList.txt"
-	"6.1.0@http://unicode.org/Public/6.1.0/ucd/UnicodeData.txt@http://unicode.org/Public/6.1.0/ucd/Scripts.txt@http://unicode.org/Public/6.1.0/ucd/Blocks.txt@http://unicode.org/Public/6.1.0/ucd/PropList.txt"
-	"6.2.0@http://unicode.org/Public/6.2.0/ucd/UnicodeData.txt@http://unicode.org/Public/6.1.0/ucd/Scripts.txt@http://unicode.org/Public/6.2.0/ucd/Blocks.txt@http://unicode.org/Public/6.2.0/ucd/PropList.txt"
-	"6.3.0@http://unicode.org/Public/6.3.0/ucd/UnicodeData.txt@http://unicode.org/Public/6.1.0/ucd/Scripts.txt@http://unicode.org/Public/6.3.0/ucd/Blocks.txt@http://unicode.org/Public/6.3.0/ucd/PropList.txt"
+	"3.2.0@http://unicode.org/Public/3.2-Update/UnicodeData-3.2.0.txt@http://unicode.org/Public/3.2-Update/Scripts-3.2.0.txt@http://unicode.org/Public/3.2-Update/Blocks-3.2.0.txt@http://unicode.org/Public/3.2-Update/PropList-3.2.0.txt@http://unicode.org/Public/3.2-Update/DerivedCoreProperties-3.2.0.txt"
+	"4.0.1@http://unicode.org/Public/4.0-Update1/UnicodeData-4.0.1.txt@http://unicode.org/Public/4.0-Update1/Scripts-4.0.1.txt@http://unicode.org/Public/4.0-Update1/Blocks-4.0.1.txt@http://unicode.org/Public/4.0-Update1/PropList-4.0.1.txt@http://unicode.org/Public/4.0-Update1/DerivedCoreProperties-4.0.1.txt"
+	"4.1.0@http://unicode.org/Public/4.1.0/ucd/UnicodeData.txt@http://unicode.org/Public/4.1.0/ucd/Scripts.txt@http://unicode.org/Public/4.1.0/ucd/Blocks.txt@http://unicode.org/Public/4.1.0/ucd/PropList.txt@http://unicode.org/Public/4.1.0/ucd/DerivedCoreProperties.txt"
+	"5.0.0@http://unicode.org/Public/5.0.0/ucd/UnicodeData.txt@http://unicode.org/Public/5.0.0/ucd/Scripts.txt@http://unicode.org/Public/5.0.0/ucd/Blocks.txt@http://unicode.org/Public/5.0.0/ucd/PropList.txt@http://unicode.org/Public/5.0.0/ucd/DerivedCoreProperties.txt"
+	"5.1.0@http://unicode.org/Public/5.1.0/ucd/UnicodeData.txt@http://unicode.org/Public/5.1.0/ucd/Scripts.txt@http://unicode.org/Public/5.1.0/ucd/Blocks.txt@http://unicode.org/Public/5.1.0/ucd/PropList.txt@http://unicode.org/Public/5.1.0/ucd/DerivedCoreProperties.txt"
+	"5.2.0@http://unicode.org/Public/5.2.0/ucd/UnicodeData.txt@http://unicode.org/Public/5.2.0/ucd/Scripts.txt@http://unicode.org/Public/5.2.0/ucd/Blocks.txt@http://unicode.org/Public/5.2.0/ucd/PropList.txt@http://unicode.org/Public/5.2.0/ucd/DerivedCoreProperties.txt"
+	"6.0.0@http://unicode.org/Public/6.0.0/ucd/UnicodeData.txt@http://unicode.org/Public/6.0.0/ucd/Scripts.txt@http://unicode.org/Public/6.0.0/ucd/Blocks.txt@http://unicode.org/Public/6.0.0/ucd/PropList.txt@http://unicode.org/Public/6.0.0/ucd/DerivedCoreProperties.txt"
+	"6.1.0@http://unicode.org/Public/6.1.0/ucd/UnicodeData.txt@http://unicode.org/Public/6.1.0/ucd/Scripts.txt@http://unicode.org/Public/6.1.0/ucd/Blocks.txt@http://unicode.org/Public/6.1.0/ucd/PropList.txt@http://unicode.org/Public/6.1.0/ucd/DerivedCoreProperties.txt"
+	"6.2.0@http://unicode.org/Public/6.2.0/ucd/UnicodeData.txt@http://unicode.org/Public/6.1.0/ucd/Scripts.txt@http://unicode.org/Public/6.2.0/ucd/Blocks.txt@http://unicode.org/Public/6.2.0/ucd/PropList.txt@http://unicode.org/Public/6.2.0/ucd/DerivedCoreProperties.txt"
+	"6.3.0@http://unicode.org/Public/6.3.0/ucd/UnicodeData.txt@http://unicode.org/Public/6.1.0/ucd/Scripts.txt@http://unicode.org/Public/6.3.0/ucd/Blocks.txt@http://unicode.org/Public/6.3.0/ucd/PropList.txt@http://unicode.org/Public/6.3.0/ucd/DerivedCoreProperties.txt"
 )
 
 function download() {
@@ -43,10 +43,12 @@ for item in ${versions[@]}; do
 	scriptsURL="$3"
 	blocksURL="$4"
 	propsURL="$5"
+	derivedPropsURL="$6"
 	download "$dbURL" "data/${version}-database.txt"
 	[ "$scriptsURL" != "" ] && download "$scriptsURL" "data/${version}-scripts.txt"
 	[ "$blocksURL" != "" ] && download "$blocksURL" "data/${version}-blocks.txt"
 	[ "$propsURL" != "" ] && download "$propsURL" "data/${version}-properties.txt"
+	[ "$derivedPropsURL" != "" ] && download "$derivedPropsURL" "data/${version}-derivedcoreproperties.txt"
 done
 
 # Generate the category output data for each available Unicode version
@@ -79,6 +81,19 @@ for file in data/*-properties.txt; do
 	python scripts/property-code-points.py "data/${version}-properties.txt" "${version}" &
 	python scripts/property-symbols.py "data/${version}-properties.txt" "${version}" &
 	python scripts/property-regex.py "data/${version}-properties.txt" "${version}" &
+	wait
+done
+
+# Generate the derived core properties output data for each available Unicode version
+for file in data/*-derivedcoreproperties.txt; do
+	file="${file##*/}"
+	version="${file%-*}"
+	# Already created above
+	#mkdir -p "${version}/properties"
+	echo "Parsing Unicode v${version} derived core properties..."
+	python scripts/derived-core-property-code-points.py "data/${version}-derivedcoreproperties.txt" "${version}" &
+	python scripts/derived-core-property-symbols.py "data/${version}-derivedcoreproperties.txt" "${version}" &
+	python scripts/derived-core-property-regex.py "data/${version}-derivedcoreproperties.txt" "${version}" &
 	wait
 done
 

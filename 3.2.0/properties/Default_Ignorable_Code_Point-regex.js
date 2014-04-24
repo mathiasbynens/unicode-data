@@ -1,0 +1,2 @@
+// Regular expression that matches all symbols with the `Default_Ignorable_Code_Point` derived core property as per Unicode v3.2.0:
+/[\x00-\x08\x0E-\x1F\x7F-\x84\x86-\x9F\u06DD\u070F\u180B-\u180E\u200C-\u200F\u202A-\u202E\u2060-\u206F\uDC00-\uDFFF\uFE00-\uFE0F\uFEFF\uFFF0-\uFFFB]|[\uDB40-\uDB43][\uDC00-\uDFFF]|\uD834[\uDD73-\uDD7A]|[\uD800-\uDBFF]/;
