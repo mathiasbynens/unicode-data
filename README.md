@@ -1,8 +1,8 @@
 # Unicode test data for JavaScript
 
-If you ever need JavaScript arrays of all Unicode symbols per category per Unicode version (for testing purposes, perhaps), or JavaScript-compatible regular expressions to match those symbols, this directory has got you covered. Because of [the way JavaScript exposes “characters”](http://mathiasbynens.be/notes/javascript-encoding), generating this data is trickier than it sounds, as you have to account for surrogate pairs.
+If you ever need JavaScript arrays of all Unicode symbols per category per Unicode version (for testing purposes, perhaps), or JavaScript-compatible regular expressions to match those symbols, this directory has got you covered. Because of [the way JavaScript exposes “characters”](https://mathiasbynens.be/notes/javascript-encoding), generating this data is trickier than it sounds, as you have to account for surrogate pairs.
 
-For example, I’ve used a variation of this data in the following test case: <http://mathias.html5.org/tests/javascript/identifiers/> It dynamically creates and runs over 90k tests, based on [the appropriate Unicode categories and symbols](http://mathiasbynens.be/notes/javascript-identifiers).
+For example, I’ve used a variation of this data in the following test case: <http://mathias.html5.org/tests/javascript/identifiers/> It dynamically creates and runs over 90k tests, based on [the appropriate Unicode categories and symbols](https://mathiasbynens.be/notes/javascript-identifiers).
 
 ## Generated data
 
@@ -76,4 +76,4 @@ Thanks to:
 
 ## Author
 
-[Mathias Bynens](http://mathiasbynens.be/)
+[Mathias Bynens](https://mathiasbynens.be/)
