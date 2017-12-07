@@ -1,0 +1,13 @@
+// All code points with the `Prepended_Concatenation_Mark` property as per Unicode v9.0.0:
+[
+	0x600,
+	0x601,
+	0x602,
+	0x603,
+	0x604,
+	0x605,
+	0x6DD,
+	0x70F,
+	0x8E2,
+	0x110BD
+];
