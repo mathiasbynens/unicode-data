@@ -1,5 +1,6 @@
 // All symbols in the `Bengali` script as per Unicode v8.0.0:
 [
+	'\u0980',
 	'\u0981',
 	'\u0982',
 	'\u0983',

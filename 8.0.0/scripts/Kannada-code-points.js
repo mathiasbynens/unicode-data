@@ -1,5 +1,6 @@
 // All code points in the `Kannada` script as per Unicode v8.0.0:
 [
+	0xC81,
 	0xC82,
 	0xC83,
 	0xC85,

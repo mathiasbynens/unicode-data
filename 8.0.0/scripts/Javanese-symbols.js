@@ -78,7 +78,6 @@
 	'\uA9CB',
 	'\uA9CC',
 	'\uA9CD',
-	'\uA9CF',
 	'\uA9D0',
 	'\uA9D1',
 	'\uA9D2',

@@ -107,5 +107,6 @@
 	'\uD804\uDC6C',
 	'\uD804\uDC6D',
 	'\uD804\uDC6E',
-	'\uD804\uDC6F'
+	'\uD804\uDC6F',
+	'\uD804\uDC7F'
 ];

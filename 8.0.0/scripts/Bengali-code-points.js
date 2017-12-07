@@ -1,5 +1,6 @@
 // All code points in the `Bengali` script as per Unicode v8.0.0:
 [
+	0x980,
 	0x981,
 	0x982,
 	0x983,
