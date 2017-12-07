@@ -1,5 +1,6 @@
 // All symbols in the `Malayalam` script as per Unicode v8.0.0:
 [
+	'\u0D01',
 	'\u0D02',
 	'\u0D03',
 	'\u0D05',
@@ -71,6 +72,7 @@
 	'\u0D4D',
 	'\u0D4E',
 	'\u0D57',
+	'\u0D5F',
 	'\u0D60',
 	'\u0D61',
 	'\u0D62',

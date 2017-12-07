@@ -1,5 +1,6 @@
 // All symbols in the `Kannada` script as per Unicode v8.0.0:
 [
+	'\u0C81',
 	'\u0C82',
 	'\u0C83',
 	'\u0C85',

@@ -31,6 +31,7 @@
 	'\uD800\uDF1C',
 	'\uD800\uDF1D',
 	'\uD800\uDF1E',
+	'\uD800\uDF1F',
 	'\uD800\uDF20',
 	'\uD800\uDF21',
 	'\uD800\uDF22',
