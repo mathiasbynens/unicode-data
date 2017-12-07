@@ -1,0 +1,19 @@
+// All symbols in the Cyrillic Extended-C block as per Unicode v10.0.0:
+[
+	'\u1C80',
+	'\u1C81',
+	'\u1C82',
+	'\u1C83',
+	'\u1C84',
+	'\u1C85',
+	'\u1C86',
+	'\u1C87',
+	'\u1C88',
+	'\u1C89',
+	'\u1C8A',
+	'\u1C8B',
+	'\u1C8C',
+	'\u1C8D',
+	'\u1C8E',
+	'\u1C8F'
+];

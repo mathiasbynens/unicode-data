@@ -30,6 +30,7 @@ The data is currently being generated for the following Unicode versions:
  * 6.2.0
  * 6.3.0
  * 9.0.0
+ * 10.0.0
 
 I’ll update this repository (and this list) as soon as new Unicode versions are released.
 

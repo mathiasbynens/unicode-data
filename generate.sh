@@ -23,6 +23,7 @@ versions=(
 	"7.0.0@http://unicode.org/Public/7.0.0/ucd/UnicodeData.txt@http://unicode.org/Public/6.1.0/ucd/Scripts.txt@http://unicode.org/Public/7.0.0/ucd/Blocks.txt@http://unicode.org/Public/7.0.0/ucd/PropList.txt@http://unicode.org/Public/7.0.0/ucd/DerivedCoreProperties.txt"
 	"8.0.0@http://unicode.org/Public/8.0.0/ucd/UnicodeData.txt@http://unicode.org/Public/6.1.0/ucd/Scripts.txt@http://unicode.org/Public/8.0.0/ucd/Blocks.txt@http://unicode.org/Public/8.0.0/ucd/PropList.txt@http://unicode.org/Public/8.0.0/ucd/DerivedCoreProperties.txt"
 	"9.0.0@http://unicode.org/Public/9.0.0/ucd/UnicodeData.txt@http://unicode.org/Public/9.0.0/ucd/Scripts.txt@http://unicode.org/Public/9.0.0/ucd/Blocks.txt@http://unicode.org/Public/9.0.0/ucd/PropList.txt@http://unicode.org/Public/9.0.0/ucd/DerivedCoreProperties.txt"
+	"10.0.0@http://unicode.org/Public/10.0.0/ucd/UnicodeData.txt@http://unicode.org/Public/10.0.0/ucd/Scripts.txt@http://unicode.org/Public/10.0.0/ucd/Blocks.txt@http://unicode.org/Public/10.0.0/ucd/PropList.txt@http://unicode.org/Public/10.0.0/ucd/DerivedCoreProperties.txt"
 )
 
 function download() {
