@@ -1,0 +1,19 @@
+// All symbols in the Combining Half Marks block as per Unicode v9.0.0:
+[
+	'\uFE20',
+	'\uFE21',
+	'\uFE22',
+	'\uFE23',
+	'\uFE24',
+	'\uFE25',
+	'\uFE26',
+	'\uFE27',
+	'\uFE28',
+	'\uFE29',
+	'\uFE2A',
+	'\uFE2B',
+	'\uFE2C',
+	'\uFE2D',
+	'\uFE2E',
+	'\uFE2F'
+];
