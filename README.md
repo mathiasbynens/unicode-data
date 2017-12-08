@@ -1,3 +1,5 @@
+# Note: This project is deprecated in favor of [node-unicode-data](https://github.com/mathiasbynens/node-unicode-data).
+
 # Unicode test data for JavaScript
 
 If you ever need JavaScript arrays of all Unicode symbols per category per Unicode version (for testing purposes, perhaps), or JavaScript-compatible regular expressions to match those symbols, this directory has got you covered. Because of [the way JavaScript exposes “characters”](https://mathiasbynens.be/notes/javascript-encoding), generating this data is trickier than it sounds, as you have to account for surrogate pairs.
